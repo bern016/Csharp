@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BERN\\TEST\\Quiz1\\Quiz1.csproj": {}
+    "C:\\Users\\bernd\\source\\repos\\bern016\\Csharp\\Quiz1\\Quiz1.csproj": {}
   },
   "projects": {
-    "C:\\BERN\\TEST\\Quiz1\\Quiz1.csproj": {
+    "C:\\Users\\bernd\\source\\repos\\bern016\\Csharp\\Quiz1\\Quiz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BERN\\TEST\\Quiz1\\Quiz1.csproj",
+        "projectUniqueName": "C:\\Users\\bernd\\source\\repos\\bern016\\Csharp\\Quiz1\\Quiz1.csproj",
         "projectName": "Quiz1",
-        "projectPath": "C:\\BERN\\TEST\\Quiz1\\Quiz1.csproj",
+        "projectPath": "C:\\Users\\bernd\\source\\repos\\bern016\\Csharp\\Quiz1\\Quiz1.csproj",
         "packagesPath": "C:\\Users\\bernd\\.nuget\\packages\\",
-        "outputPath": "C:\\BERN\\TEST\\Quiz1\\obj\\",
+        "outputPath": "C:\\Users\\bernd\\source\\repos\\bern016\\Csharp\\Quiz1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bernd\\AppData\\Roaming\\NuGet\\NuGet.Config",

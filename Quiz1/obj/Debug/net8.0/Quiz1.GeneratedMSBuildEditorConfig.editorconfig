@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Quiz1
-build_property.ProjectDir = C:\BERN\TEST\Quiz1\
+build_property.ProjectDir = C:\Users\bernd\source\repos\bern016\Csharp\Quiz1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
