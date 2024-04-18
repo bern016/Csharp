@@ -1,0 +1,10 @@
+C:\BERN\TEST\Appsdev1\Appsdev1\bin\Debug\Appsdev1.exe.config
+C:\BERN\TEST\Appsdev1\Appsdev1\bin\Debug\Appsdev1.exe
+C:\BERN\TEST\Appsdev1\Appsdev1\bin\Debug\Appsdev1.pdb
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.csproj.AssemblyReference.cache
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.Form1.resources
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.Properties.Resources.resources
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.csproj.GenerateResource.cache
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.csproj.CoreCompileInputs.cache
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.exe
+C:\BERN\TEST\Appsdev1\Appsdev1\obj\Debug\Appsdev1.pdb
